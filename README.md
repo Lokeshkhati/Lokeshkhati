@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Lokesh! Great to see you here! 👋
+___________________________________________________________________________
+
+I am Lokesh Khati, currently pursuing Bachelor of Computer Application from Maharshi Dayanand University . I am a tech enthusiast & a Frontend Developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <!--
 **Lokeshkhati/Lokeshkhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
