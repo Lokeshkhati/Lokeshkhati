@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-- 💻  I'm Lokesh Khati, a Frontend Developer,  tech enthusiast 
+- 💻###  I'm Lokesh Khati, a Frontend Developer,  tech enthusiast 
 - 🎓 Currently pursuing Bachelor of Computer Application from Maharshi Dayanand University
 - 🌱 I’m currently learning Backend Technologies & Database :  Nodejs, ExpressJs & MongoDB
 - 👯 I’m open to collaborate on any project releted to Frontend 
