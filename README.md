@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 -->
 
    &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' align="center"  height='40'>](https://github.com/Lokeshkhati)  &nbsp; &nbsp; &nbsp; &nbsp;
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  align="center" height='40'>](https://www.linkedin.com/in/Lokeshkhati)  &nbsp; &nbsp; &nbsp; &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' align="center" height='45'>](https://twitter.com/Lokeshkhati12)  &nbsp; &nbsp; &nbsp; &nbsp;    
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  align="center" height='40'>](https://www.linkedin.com/in/lokesh-khati)  &nbsp; &nbsp; &nbsp; &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' align="center" height='45'>](https://twitter.com/Lokeshkhati12)  &nbsp; &nbsp; &nbsp; &nbsp;    
 
 
 
